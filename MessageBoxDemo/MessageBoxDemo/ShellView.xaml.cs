@@ -1,14 +1,9 @@
-﻿using System.Windows;
-
-namespace MessageBoxDemo
-{
+﻿namespace MessageBoxDemo {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    ///     Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class ShellView
-    {
-        public ShellView()
-        {
+    public partial class ShellView {
+        public ShellView() {
             InitializeComponent();
         }
     }
